@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en-us">
 
   {% include head.html %}
@@ -16,14 +15,14 @@
           <label for="sidebar-checkbox" class="sidebar-toggle"></label>
 
           <h3 class="masthead-title">
-            <a href="/" title="Home">%20site.title%20</a>
-            <small>%20site.tagline%20</small>
+            <a href="/" title="Home">{{ site.title }}</a>
+            <small>{{ site.tagline }}</small>
           </h3>
         </div>
       </div>
 
       <div class="container content">
-        %20content%20
+        {{ content }}
       </div>
     </div>
 
