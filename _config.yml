@@ -6,7 +6,7 @@ rouge:         true
 permalink:        pretty
 
 # Setup
-title:             Jimmy's Random Blog
+title:            Jimmy's Random Blog
 tagline:          'Thoughts'
 description:      'A Test Site...for now'
 url:              jmreekes.github.io
