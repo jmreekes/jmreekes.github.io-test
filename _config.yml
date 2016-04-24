@@ -1,0 +1,23 @@
+# Dependencies
+markdown:         kramdown
+rouge:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:             Jimmy's Random Blog
+tagline:          'Thoughts'
+description:      'A Test Site...for now'
+url:              jmreekes.github.io
+paginate:         1
+baseurl:          ""
+
+author:
+  name:           'Jimmy Reekes III'
+  url:            https://twitter.com/jmreekes
+
+
+# Custom vars
+version:          1.0.0
+
